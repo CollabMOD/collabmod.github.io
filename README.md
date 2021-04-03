@@ -27,7 +27,7 @@ Coming soon...
 Suni29 is the official creator of CollabMOD.
 
 - Links
-  1. [Suni29's Github](https://github.com/Suni29-GamePlay/)
-  2. Suni29's YouTube (Tech channel coming soon...)
+1. [Suni29's Github](https://github.com/Suni29-GamePlay/)
+2. Suni29's YouTube (Tech channel coming soon...)
 
 #
